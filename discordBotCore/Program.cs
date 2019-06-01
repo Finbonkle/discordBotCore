@@ -12,7 +12,7 @@ namespace discordBotCore
                 Console.WriteLine("0.0.1");
                 return;
             }
-            Console.WriteLine("Hello Discord!");
+            Console.WriteLine("Hello, Discord!");
         }
     }
 }
